@@ -5,3 +5,4 @@
 
 ##### 1. Visualising Cumulative Returns
 #####  - Simple visualisation of how much a 1$ investment at a certain beggining date would have generated after a period of time assuming no maintenance costs nor account transaction movements
+##### - libraries used: pandas and matplotlib.pyplot for data manipulation and data visualisation and yfinance to retrieve data from YahooFinance
